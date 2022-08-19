@@ -93,13 +93,14 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-## 🎥 [**_YouTube Channel_**][youtube] & [**_Discord Server:_**][discord]
+ ## 🎥 [**_YouTube Channel_**][youtube] & [**_Discord Server:_**][discord]
 
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtHxsna50Tua9_6Cd427jwA?color=%23ff0000&logo=YouTube&logoColor=%23ff0000&style=for-the-badge)][youtube]
-
 [![YouTube Views](https://img.shields.io/youtube/channel/views/UCtHxsna50Tua9_6Cd427jwA?color=%23ff0000&logo=YouTube&logoColor=%23ff0000&style=for-the-badge)][youtube]
+[![Discord Server](https://img.shields.io/discord/939099147955486791?color=5865F2&label=Damage%20Esports&logo=discord&style=for-the-badge)][discord]
 
-[![Discord Server](https://img.shields.io/discord/939099147955486791?color=5865F2&label=Damege Esports&logo=discord&style=for-the-badge)][discord]
+
+<br />
 
 ### 📩 **_Latest Uploads -_**
 
@@ -158,4 +159,4 @@ You can click the Preview link to take a look at your changes.
 [patreon]: https://patreon.com/fusionterror
 
 [mail]: mailto:fusionterrorbusiness@gmail.com
-
+<br />
