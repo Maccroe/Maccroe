@@ -90,7 +90,7 @@ You can click the Preview link to take a look at your changes.
 [![HTML Badge](https://img.shields.io/badge/-HTML-0D1117?logo=html5)][html]
 
 [![CSS Badge](https://img.shields.io/badge/-CSS-0D1117?logo=css3&logoColor=1572B6)][css]
-
+<br />
 <br />
 
  ## 🎥 [**_YouTube Channel_**][youtube] & [**_Discord Server:_**][discord]
@@ -118,45 +118,10 @@ You can click the Preview link to take a look at your changes.
 
 <!-- YOUTUBE:END -->
 
-<br />
 
-## **_GitHub Stats:_**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Maccroe&count_private=true&theme=radical&showicons=true">
 
-<br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?useManame=Maccroe&langs_count=5&theme=radical">
 
-<br />
 
-[youtube]: https://youtube.com/fusionterror/?sub_confirmation=1
 
-[javascript]: https://www.javascript.com
-
-[nodejs]: https://nodejs.org
-
-[processing]: https://processing.org
-
-[java]: https://www.java.com
-
-[npm]: https://www.npmjs.com/~fusionterror
-
-[cs]: https://docs.microsoft.com/en-us/dotnet/csharp/
-
-[vscode]: https://code.visualstudio.com
-
-[mongodb]: https://www.mongodb.com
-
-[markdown]: https://www.markdownguide.org
-
-[html]: https://html.com/html5/
-
-[css]: https://www.css3.com
-
-[discord]: https://discord.gg/74MasbJQ32
-
-[patreon]: https://patreon.com/fusionterror
-
-[mail]: mailto:fusionterrorbusiness@gmail.com
-<br />
