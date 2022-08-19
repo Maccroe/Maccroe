@@ -122,11 +122,11 @@ You can click the Preview link to take a look at your changes.
 
 ## **_GitHub Stats:_**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=JOKERASHGAMING&count_private=true&theme=radical&showicons=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Maccroe&count_private=true&theme=radical&showicons=true">
 
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOKERASHGAMING&langs_count=5&theme=radical">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?useManame=Maccroe&langs_count=5&theme=radical">
 
 <br />
 
