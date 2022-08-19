@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-    <img src="https://cdn.discordapp.com/attachments/773221397928869888/883691820905816084/com-gif-maker-unscreen.gif" alt="nvm" width="150"/>
+
 
    </a>
 
