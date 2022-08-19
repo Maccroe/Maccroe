@@ -84,11 +84,11 @@ You can click the Preview link to take a look at your changes.
 ### 📩 **_Latest Uploads -_**
 
 <!-- YOUTUBE:START -->
-- [[NEW] [1v4 Or Wot 😍🔥](https://youtu.be/Sw4jDytkBY8)
-- [[NEW] [GOD Level Car Spray 🔥❤](https://youtu.be/6xovOx2cl_Q)
-- [[NEW] [MOST INSANE TDM SNIPER MONTAGE | PUBG MOBILE | XXXTENTACION - SAD | JOKER ASH GAMING](https://youtu.be/Kro6x9W7cUM)
-- [[NEW] [THE LAST MONTAGE || Jab Tu Na Mila || Good Bye Pubg || Joker Ash Gaming](https://youtu.be/9kM-LlLpzzw)
-- [NEW] [ALONE - VELOCITY BEAT SYNC PUBG MONTAGE ||MADE ON ANDROID||](https://youtu.be/4yGfMv4GM8A)
+- [1v4 Or Wot 😍🔥](https://www.youtube.com/watch?v=Sw4jDytkBY8)
+- [GOD Level Car Spray 🔥❤](https://www.youtube.com/watch?v=6xovOx2cl_Q)
+- [[English] PubG : 👍 stream | Playing Solo](https://www.youtube.com/watch?v=G01vUYiYhO8)
+- [MOST INSANE TDM SNIPER MONTAGE  | PUBG MOBILE | XXXTENTACION - SAD  | JOKER ASH GAMING](https://www.youtube.com/watch?v=Kro6x9W7cUM)
+- [THE LAST MONTAGE || Jab Tu Na Mila || Good Bye Pubg || Joker Ash Gaming](https://www.youtube.com/watch?v=9kM-LlLpzzw)
 <!-- YOUTUBE:END -->
 
 <br />
