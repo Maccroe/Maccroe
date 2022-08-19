@@ -1,3 +1,8 @@
+
+
+  <a href="#"><img src="https://discord.c99.nl/widget/theme-1/790840344081465375.png"></a>
+
+
 - 👋 Hi, I’m @Maccroe
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -59,8 +64,6 @@ You can click the Preview link to take a look at your changes.
   <br>
 
   <br>
-
-  <a href="#"><img src="https://discord.c99.nl/widget/theme-1/790840344081465375.png"></a>
 
  
 
