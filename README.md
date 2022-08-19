@@ -62,6 +62,6 @@ You can click the Preview link to take a look at your changes.
 
   <a href="#"><img src="https://discord.c99.nl/widget/theme-1/340243638892101646.png"></a>
 
-  <a href="#"><img src="https://carrd.sp
+ 
 
 </p>
