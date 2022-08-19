@@ -47,7 +47,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# **_Welcome to my GitHub profile_** 👋
 
 [![Patreon Badge](https://img.shields.io/badge/-Donate/Support-0D1117?logo=patreon&style=for-the-badge)][patreon]
 
