@@ -42,13 +42,13 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h1 align="center">Hi 👋, I'm Sean</h1>
 
-<h5 align="left">Developer of <a href="https://www.betty.cx/">Betty</a> and <a href="https://cloe.gg">Cloe</a> | Backend/Frontend knowledge</h3>
 
-<p align="left">
 
-  <a href="https://discord.gg/ZVERh35">
+
+
+
+
 
     <img src="https://cdn.discordapp.com/attachments/773221397928869888/883691820905816084/com-gif-maker-unscreen.gif" alt="nvm" width="150"/>
 
