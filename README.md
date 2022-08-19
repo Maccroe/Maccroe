@@ -1,6 +1,6 @@
 
 
-  <a href="#"><img src="https://discord.c99.nl/widget/theme-1/790840344081465375.png"></a>
+ <h3 align="middle"> <a href="#"><img src="https://discord.c99.nl/widget/theme-1/790840344081465375.png"></a>
 
 
 - 👋 Hi, I’m @Maccroe
