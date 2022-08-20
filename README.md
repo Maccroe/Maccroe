@@ -1,9 +1,12 @@
 <p align="left">
-
   <a href="https://discord.gg/GVcNZqBHfK">
-
     <img src="https://cdn.discordapp.com/attachments/792806776990597173/1010418083179016282/com-gif-maker-unscreen.gif" alt="nvm" width="150"/>
+   </a>
+  <br>
+  <br>
+  <br>
 </p>
+
 
  <h3 align="middle"> <a href="#"><img src="https://discord.c99.nl/widget/theme-1/790840344081465375.png"></a>
 
