@@ -1,4 +1,4 @@
-<p align="left">
+<p align="middle">
   <a href="https://discord.gg/GVcNZqBHfK">
     <img src="https://cdn.discordapp.com/attachments/792806776990597173/1010418083179016282/com-gif-maker-unscreen.gif" alt="nvm" width="150"/>
    </a>
@@ -16,14 +16,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-<p align="right">
-  <a href="https://discord.gg/GVcNZqBHfK">
-    <img src="https://cdn.discordapp.com/attachments/792806776990597173/1010418083179016282/com-gif-maker-unscreen.gif" alt="nvm" width="150"/>
-   </a>
-  <br>
-  <br>
-  <br>
-</p>
+
 <!---
 Maccroe/Maccroe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
