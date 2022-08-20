@@ -1,6 +1,6 @@
 <p align="left">
 
-  <a href="https://discord.gg/ZVERh35">
+  <a href="https://discord.gg/GVcNZqBHfK">
 
     <img src="https://cdn.discordapp.com/attachments/773221397928869888/883691820905816084/com-gif-maker-unscreen.gif" alt="nvm" width="150"/>
 </p>
