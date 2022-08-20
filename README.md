@@ -2,7 +2,7 @@
 
   <a href="https://discord.gg/GVcNZqBHfK">
 
-    <img src="https://cdn.discordapp.com/attachments/773221397928869888/883691820905816084/com-gif-maker-unscreen.gif" alt="nvm" width="150"/>
+    <img src="https://cdn.discordapp.com/attachments/792806776990597173/1010418083179016282/com-gif-maker-unscreen.gif" alt="nvm" width="150"/>
 </p>
 
  <h3 align="middle"> <a href="#"><img src="https://discord.c99.nl/widget/theme-1/790840344081465375.png"></a>
