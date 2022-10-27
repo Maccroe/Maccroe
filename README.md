@@ -87,7 +87,7 @@ You can click the Preview link to take a look at your changes.
 
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtHxsna50Tua9_6Cd427jwA?color=%23ff0000&logo=YouTube&logoColor=%23ff0000&style=for-the-badge)][youtube]
 [![YouTube Views](https://img.shields.io/youtube/channel/views/UCtHxsna50Tua9_6Cd427jwA?color=%23ff0000&logo=YouTube&logoColor=%23ff0000&style=for-the-badge)][youtube]
-[![Discord Server](https://img.shields.io/discord/939099147955486791?color=5865F2&label=Damage%20Esports&logo=discord&style=for-the-badge)][discord]
+[![Discord Server](https://img.shields.io/discord/1024309441723650109?color=5865F2&label=DragoLuca&logo=discord&style=for-the-badge)][discord]
 
 ### 📩 **_Latest Uploads -_**
 
