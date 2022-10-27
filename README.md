@@ -123,7 +123,7 @@ You can click the Preview link to take a look at your changes.
 [markdown]: https://www.markdownguide.org
 [html]: https://html.com/html5/
 [css]: https://www.css3.com
-[discord]: https://discord.gg/GVcNZqBHfK
+[discord]: https://discord.gg/Q9RfV4Dsq2
 [patreon]: https://patreon.com/maccroe
 [mail]: mailto:maccroebusiness@gmail.com
 
