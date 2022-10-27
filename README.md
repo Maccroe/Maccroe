@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 You can also check out my portfolio at [https://Maccroe.github.io/](https://Maccroe.github.io/)
 
-- 📫 How to reach me **Discord.gg/nytofficials**
+- 📫 How to reach me **discord.gg/Q9RfV4Dsq2**
 
 - ⚡ Fun fact **I think I am funny XD**
 
