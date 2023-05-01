@@ -92,11 +92,11 @@ You can click the Preview link to take a look at your changes.
 ### 📩 **_Latest Uploads -_**
 
 <!-- YOUTUBE:START -->
+- [Cradles ⚡| BGMI MONTAGE | Redmi note 9 | JokerAshGaming](https://www.youtube.com/watch?v=XZ1B5oKB3z0)
 - [SOME BGMI FRAGS 🔥🔥](https://www.youtube.com/watch?v=r-qiM1NvpmE)
 - [DP-28 | ZEHER BURST LIKE @SnaxGaming 😱🔥](https://www.youtube.com/watch?v=8CJMY2s2T18)
 - [Started ⚡ | BGMI MONTAGE | JokerAshGaming](https://www.youtube.com/watch?v=7FFu-Sh_W5A)
 - [Spray Toh Hai 😱 #shorts #gamingshorts #bgmi](https://www.youtube.com/watch?v=fu1FESV9yQc)
-- [Bgmi Clips 😱 #shorts #gamingshorts #bgmi](https://www.youtube.com/watch?v=Q7hO4IKoxbc)
 <!-- YOUTUBE:END -->
 
 <br />
