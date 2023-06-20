@@ -92,11 +92,11 @@ You can click the Preview link to take a look at your changes.
 ### 📩 **_Latest Uploads -_**
 
 <!-- YOUTUBE:START -->
+- [BGMI CLUTCHES 1 v 4 #shorts #bgmi #gaming](https://www.youtube.com/watch?v=8rG3AujX6Y0)
 - [INDILA ⚡| 2 Finger + Gyroscope | Redmi Note 9 Pro | BGMI MONTAGE](https://www.youtube.com/watch?v=7uUmBY3nwvQ)
 - [Fearless ⚡| 2 Finger + Gyroscope | BGMI MONTAGE | Redmi note 9](https://www.youtube.com/watch?v=5NJxuS94hYc)
 - [BGMI SERVER PROBLEM || BGMI SHIFTED SERVER || BGMI UNBAN](https://www.youtube.com/watch?v=QNEpCeQ32hM)
 - [Murderer ⚡| BGMI MONTAGE | Redmi note 9 | JokerAshGaming](https://www.youtube.com/watch?v=5c0liovBqdc)
-- [1v4 Squad Wipe 🔥😱 #shorts #gamingshorts #bgmi](https://www.youtube.com/watch?v=j2cyWjP4fWw)
 <!-- YOUTUBE:END -->
 
 <br />
