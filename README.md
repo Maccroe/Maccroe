@@ -127,7 +127,8 @@ You can click the Preview link to take a look at your changes.
 [patreon]: https://patreon.com/maccroe
 [mail]: mailto:maccroebusiness@gmail.com
 
-<br />
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Maccroe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
