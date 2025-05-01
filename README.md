@@ -92,11 +92,11 @@ You can click the Preview link to take a look at your changes.
 ### 📩 **_Latest Uploads -_**
 
 <!-- YOUTUBE:START -->
+- [BGMI LIVE TESTING STREAM](https://www.youtube.com/watch?v=wfMzUuYuz_k)
 - [BGMI SCRIMS MONTAGE ❤‍🔥🥰](https://www.youtube.com/watch?v=nFwmp7qBuJU)
 - [ONE REPUBLIC 💀| 2 Finger + Gyroscope | BGMI MONTAGE](https://www.youtube.com/watch?v=XPyvB8O-oGE)
 - [Metro Boomin ⚡| 2 Finger + Gyroscope | Redmi Note 9 Pro | BGMI MONTAGE](https://www.youtube.com/watch?v=zz1C6rr-kCU)
 - [𝙒𝙝𝙮 𝙀𝙫𝙚𝙧𝙮𝙤𝙣𝙚 𝙄𝙜𝙣𝙤𝙧𝙚𝙨 𝙈𝙮 𝘼𝙢𝙖𝙯𝙞𝙣𝙜 𝙂𝙖𝙢𝙚𝙥𝙡𝙖𝙮 #𝙗𝙜𝙢𝙞 #𝙥𝙪𝙗𝙜𝙢𝙤𝙗𝙞𝙡𝙚 🥺🙁🚫](https://www.youtube.com/watch?v=SyYH5ASawC0)
-- [BGMI CLUTCHES 1 v 4 #shorts #bgmi #gaming](https://www.youtube.com/watch?v=8rG3AujX6Y0)
 <!-- YOUTUBE:END -->
 
 <br />
